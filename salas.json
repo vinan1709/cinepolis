@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "613c1ace105f6865343e03f6"
+  },
+  "Sala": 1,
+  "Capacidad_publica": 30,
+  "publico_actual": 20
+},{
+  "_id": {
+    "$oid": "613c1b6b105f6865343e03f7"
+  },
+  "Sala": 2,
+  "Capacidad_publica": 28,
+  "publico_actual": 10
+},{
+  "_id": {
+    "$oid": "613c1b81105f6865343e03f8"
+  },
+  "Sala": 3,
+  "Capacidad_publica": 50,
+  "publico_actual": 30
+},{
+  "_id": {
+    "$oid": "613c1b97105f6865343e03f9"
+  },
+  "Sala": 4,
+  "Capacidad_publica": 40,
+  "publico_actual": 20
+},{
+  "_id": {
+    "$oid": "613c1ba6105f6865343e03fa"
+  },
+  "Sala": 5,
+  "Capacidad_publica": 45,
+  "publico_actual": 25
+},{
+  "_id": {
+    "$oid": "613c1bb5105f6865343e03fb"
+  },
+  "Sala": 6,
+  "Capacidad_publica": 65,
+  "publico_actual": 55
+},{
+  "_id": {
+    "$oid": "613c1bc9105f6865343e03fc"
+  },
+  "Sala": 7,
+  "Capacidad_publica": 58,
+  "publico_actual": 5
+},{
+  "_id": {
+    "$oid": "613c1bdb105f6865343e03fd"
+  },
+  "Sala": 8,
+  "Capacidad_publica": 38,
+  "publico_actual": 16
+},{
+  "_id": {
+    "$oid": "613c1bee105f6865343e03fe"
+  },
+  "Sala": 9,
+  "Capacidad_publica": 75,
+  "publico_actual": 30
+},{
+  "_id": {
+    "$oid": "613c26f2f04e4a259972ba8a"
+  },
+  "Sala": 10,
+  "Capacidad_publica": 20,
+  "publico_actual": 19
+},{
+  "_id": {
+    "$oid": "613c2713f04e4a259972ba8b"
+  },
+  "Sala": 11,
+  "Capacidad_publica": 50,
+  "publico_actual": 40
+},{
+  "_id": {
+    "$oid": "613c2745f04e4a259972ba8d"
+  },
+  "Sala": 12,
+  "Capacidad_publica": 37,
+  "publico_actual": 37
+},{
+  "_id": {
+    "$oid": "613c275cf04e4a259972ba8e"
+  },
+  "Sala": 13,
+  "Capacidad_publica": 50,
+  "publico_actual": 38
+},{
+  "_id": {
+    "$oid": "613c2781f04e4a259972ba8f"
+  },
+  "Sala": 14,
+  "Capacidad_publica": 30,
+  "publico_actual": 16
+},{
+  "_id": {
+    "$oid": "613c2791f04e4a259972ba90"
+  },
+  "Sala": 15,
+  "Capacidad_publica": 45,
+  "publico_actual": 45
+},{
+  "_id": {
+    "$oid": "613c27a9f04e4a259972ba91"
+  },
+  "Sala": 16,
+  "Capacidad_publica": 50,
+  "publico_actual": 45
+},{
+  "_id": {
+    "$oid": "613c27c2f04e4a259972ba92"
+  },
+  "Sala": 17,
+  "Capacidad_publica": 50,
+  "publico_actual": 48
+},{
+  "_id": {
+    "$oid": "613c27daf04e4a259972ba93"
+  },
+  "Sala": 18,
+  "Capacidad_publica": 48,
+  "publico_actual": 26
+},{
+  "_id": {
+    "$oid": "613c27eef04e4a259972ba94"
+  },
+  "Sala": 19,
+  "Capacidad_publica": 40,
+  "publico_actual": 39
+}]

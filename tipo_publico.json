@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "613c173c105f6865343e03f1"
+  },
+  "public": "adultos"
+},{
+  "_id": {
+    "$oid": "613c1751105f6865343e03f2"
+  },
+  "public": "niños"
+},{
+  "_id": {
+    "$oid": "613c1758105f6865343e03f3"
+  },
+  "public": "adolescentes"
+}]

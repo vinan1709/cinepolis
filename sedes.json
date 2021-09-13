@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "613c1401105f6865343e03e2"
+  },
+  "nombre_sede": "Cinépolis VIP Plaza Claro",
+  "horario": "8am - 10pm",
+  "telefono": "123456789"
+},{
+  "_id": {
+    "$oid": "613c15a9105f6865343e03e3"
+  },
+  "nombre_sede": "Cinépolis Diverplaza",
+  "horario": "9am - 11pm",
+  "telefono": "12345"
+},{
+  "_id": {
+    "$oid": "613c15c4105f6865343e03e4"
+  },
+  "nombre_sede": "Cinépolis Mallplaza (Calima)",
+  "horario": "7am - 8pm",
+  "telefono": "6789"
+},{
+  "_id": {
+    "$oid": "613c15d0105f6865343e03e5"
+  },
+  "nombre_sede": "Cinepolis Norte",
+  "horario": "9am - 12pm",
+  "telefono": "987654321"
+},{
+  "_id": {
+    "$oid": "613c15d8105f6865343e03e6"
+  },
+  "nombre_sede": "Cinépolis Hayuelos Colombia",
+  "horario": "8am - 8pm",
+  "telefono": "987654"
+}]
