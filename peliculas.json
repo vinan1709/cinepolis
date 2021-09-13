@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "613e72702c266f8d299cd911"
+  },
+  "nombre_pelicula": "After: Almas perdidas",
+  "actores": "Josephine Langford, Hero Fiennes-Tiffin",
+  "directores": "Castille Lando",
+  "categoria": "romance"
+},{
+  "_id": {
+    "$oid": "613e73102c266f8d299cd912"
+  },
+  "nombre_pelicula": "Boonie bears: La vida salvaje",
+  "actores": null,
+  "directores": "Ding Leun",
+  "categoria": "infantil"
+},{
+  "_id": {
+    "$oid": "613e737e2c266f8d299cd915"
+  },
+  "nombre_pelicula": "El escuadrón suicida",
+  "actores": "Margot Robbie, Idris Elba, John Cen",
+  "directores": "James Gun",
+  "categoria": "accion"
+},{
+  "_id": {
+    "$oid": "613e73c92c266f8d299cd916"
+  },
+  "nombre_pelicula": "Maligno",
+  "actores": "Taylor Schilling, Brittany Alle",
+  "directores": "Nicholas McCarth",
+  "categoria": "terror"
+},{
+  "_id": {
+    "$oid": "613e73f72c266f8d299cd917"
+  },
+  "nombre_pelicula": "Peter Rabbit: Conejo en fuga",
+  "actores": "Domhnall Gleeson, Rose Byrne, James Corde",
+  "directores": "Will Gluc",
+  "categoria": "infantil"
+},{
+  "_id": {
+    "$oid": "613e74372c266f8d299cd918"
+  },
+  "nombre_pelicula": "Shang-Chi y la leyenda de diez anillos",
+  "actores": "Tony Chiu Wai Leung, Fala Chen, Simu Li",
+  "directores": "Destin Cretto",
+  "categoria": "accion y aventura"
+},{
+  "_id": {
+    "$oid": "613e74662c266f8d299cd919"
+  },
+  "nombre_pelicula": "Free Guy: Tomando el control",
+  "actores": "Ryan Reynolds, Jodie Come",
+  "directores": "Shawn Lev",
+  "categoria": "accion"
+},{
+  "_id": {
+    "$oid": "613e74a22c266f8d299cd91a"
+  },
+  "nombre_pelicula": "No respires 2",
+  "actores": "Gary Oldman, Olga Kurylenk",
+  "directores": "Adler Zackar",
+  "categoria": "accion"
+},{
+  "_id": {
+    "$oid": "613e74f92c266f8d299cd91b"
+  },
+  "nombre_pelicula": "Jungle cruise",
+  "actores": "Paul Giamatti, Dwayne Johnson, Emily Blunt, Edgar Ramire",
+  "directores": "Jaume Collet-Serr",
+  "categoria": "accion y aventura"
+},{
+  "_id": {
+    "$oid": "613e752d2c266f8d299cd91c"
+  },
+  "nombre_pelicula": "Paw Patrol: La película",
+  "actores": "Dax Shepard, Ron Pard",
+  "directores": "Cal Brunke",
+  "categoria": "infantil"
+}]

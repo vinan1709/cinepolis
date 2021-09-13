@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "613c1609105f6865343e03e9"
+  },
+  "categoria": "terror"
+},{
+  "_id": {
+    "$oid": "613c16f7105f6865343e03ea"
+  },
+  "categoria": "Infantil"
+},{
+  "_id": {
+    "$oid": "613c16ff105f6865343e03eb"
+  },
+  "categoria": "Comedia"
+},{
+  "_id": {
+    "$oid": "613c170a105f6865343e03ec"
+  },
+  "categoria": "acción"
+},{
+  "_id": {
+    "$oid": "613c1713105f6865343e03ed"
+  },
+  "categoria": "romantica"
+},{
+  "_id": {
+    "$oid": "613c171d105f6865343e03ee"
+  },
+  "categoria": "drama"
+}]
